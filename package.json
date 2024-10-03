@@ -4,8 +4,6 @@
   "name": "typescript-template",
   "description": "Template for a simple typescript function (compatible with cdk lambda)",
   "license": "MIT",
-  "private": true,
-  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "build": "npx tsc",
