@@ -9,3 +9,4 @@ Made by:
     npm install --save-dev @jest/globals
     npm install --save-dev @types/jest
     npx ts-jest config:init
+    (...)
