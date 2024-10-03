@@ -1,7 +1,8 @@
 # typescript-template
 Template for a simple typescript function (compatible with cdk lambda)
 
-Made by:
+Made using the following commands:
+```bash
     npm --init
     npm i --save-dev typescript
     npx tsc init
@@ -10,3 +11,4 @@ Made by:
     npm install --save-dev @types/jest
     npx ts-jest config:init
     (...)
+```
